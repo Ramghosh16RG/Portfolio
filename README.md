@@ -25,7 +25,7 @@ This portfolio reflects the journey, skills, and work of Ramprasad Ghosh, showca
 
 **🚀 Live Preview**
 
-👉 View My Portfolio (Replace with your actual link)
+👉 View My Portfolio 
 
 **📂 Tech Stack**
 
