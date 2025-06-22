@@ -12,12 +12,19 @@ The portfolio provides easy access to contact details, resume, and professional 
 **🌟 Key Features**
 
 ✅ Fully responsive design — looks great on all screen sizes
+
 ✅ Gradient branding and professional layout
+
 ✅ Certifications grid with interactive overlays
+
 ✅ Project showcase with direct links
+
 ✅ Smooth navigation with no horizontal scroll issues
+
 ✅ Contact and resume buttons for quick access
+
 ✅ Minimalist footer with personal quote and copyright
+
 
 **💻 About**
 
