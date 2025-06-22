@@ -25,7 +25,7 @@ This portfolio reflects the journey, skills, and work of Ramprasad Ghosh, showca
 
 **🚀 Live Preview**
 
-👉 View My Portfolio 
+👉 **[View the Portfolio](https://free-portfolio-aayush.vercel.app/)**
 
 **📂 Tech Stack**
 
@@ -34,3 +34,5 @@ HTML5
 CSS3 (with gradients, flexbox, grid, media queries)
 
 JavaScript
+
+
