@@ -70,14 +70,14 @@ body {
   .logo { font-size: 1.1rem; }
   .cert-grid { grid-template-columns: repeat(1, 1fr); }
 }
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   
-  .nav-links { gap: 0.5rem; }
-  .nav-links li a { font-size: 0.7rem; }
-  .logo { font-size: .95rem; }
+  .nav-links { gap: 0.3rem; }
+  .nav-links li a { font-size: 0.6rem; }
+  .logo { font-size: .8rem; }
   .cert-grid { grid-template-columns: repeat(1, 1fr); }
   .cert-title {
-  font-size: 40px;}
+  font-size: 30px;}
 }
 
 
