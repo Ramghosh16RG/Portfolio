@@ -25,7 +25,7 @@ This portfolio reflects the journey, skills, and work of Ramprasad Ghosh, showca
 
 **🚀 Live Preview**
 
-👉 **[View the Portfolio](https://free-portfolio-aayush.vercel.app/)**
+👉 **[View the Portfolio](https://ramghosh16rg.github.io/Portfolio/)**
 
 **📂 Tech Stack**
 
