@@ -73,11 +73,11 @@ body {
 @media (max-width: 400px) {
   
   .nav-links { gap: 0.3rem; }
-  .nav-links li a { font-size: 0.6rem; }
-  .logo { font-size: .8rem; }
+  .nav-links li a { font-size: 0.7rem; }
+  .logo { font-size: .9rem; }
   .cert-grid { grid-template-columns: repeat(1, 1fr); }
   .cert-title {
-  font-size: 30px;}
+  font-size: 34px;}
 }
 
 
